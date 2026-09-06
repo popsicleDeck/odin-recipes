@@ -1,1 +1,2 @@
-strawberry-shorcake.jpg: mariya_m
+strawberry-shorcake.jpg: mariya_m on pixabay
+spaghetti.jpg:truongvandoan on pixabay
