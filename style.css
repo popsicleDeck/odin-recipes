@@ -1,0 +1,34 @@
+body {
+  background-color: #fadddb;
+}
+h1 {
+  box-sizing: border-box;
+  font-family: "Brush Script MT", sans-serif;
+  text-align: center;
+  border: 4px dotted #aa2f27;
+  border-radius: 14px;
+  width: 400px;
+  margin: 50px auto;
+  padding: 10px;
+  color: brown;
+}
+ul {
+  box-sizing: border-box;
+  width: 20em;
+  height: 10em;
+  background-color: white;
+  border-radius: 20px;
+  margin: auto;
+  padding: 40px;
+  text-align: center;
+}
+li {
+  margin: 10px;
+  color: #42445a00;
+}
+a:visited {
+  color: brown;
+}
+a:hover {
+  color: #fadddb;
+}

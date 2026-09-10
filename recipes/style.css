@@ -1,0 +1,58 @@
+body {
+  background-color: #fadddb;
+}
+h1 {
+  box-sizing: border-box;
+  font-family: "Brush Script MT", sans-serif;
+  text-align: center;
+  border: 4px dotted #aa2f27;
+  border-radius: 14px;
+  width: 400px;
+  margin: 50px auto;
+  padding: 10px;
+  color: brown;
+}
+h3,
+h4 {
+  margin-left: 25vw;
+}
+ul,
+ol {
+  box-sizing: border-box;
+  background-color: white;
+  border-radius: 20px;
+  margin: 20px auto;
+  padding: 30px 70px;
+  width: 50vw;
+}
+#recipeimg {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+ul {
+  text-align: center;
+}
+li {
+  margin: 10px;
+}
+a:visited {
+  color: brown;
+}
+a:hover {
+  color: #fadddb;
+}
+.container {
+  box-sizing: border-box;
+  border: dotted brown;
+  border-radius: 20px;
+  background-color: white;
+  width: 7rem;
+  padding: 10px;
+  text-align: center;
+}
+.content {
+}
+div img {
+  width: 1rem;
+}
